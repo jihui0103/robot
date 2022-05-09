@@ -8,7 +8,7 @@ LIST( APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR} )
 
 ## Find catkin macros and libraries
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
-## is used, also find other catkin packages
+## is used, also find other catkin packages  .
 find_package(catkin REQUIRED COMPONENTS
   gazebo_ros
   roscpp
